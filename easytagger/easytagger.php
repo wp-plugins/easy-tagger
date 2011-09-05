@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Easy Tagger
-Plugin URI: localhost
+Plugin URI: http://wordpress.org/extend/plugins/easy-tagger/
 Description: A simple plugin enabling blog visitors to tag posts, show rankings, etc
 Version: 1.0
 Author: Dominik Gawlik

@@ -2,7 +2,7 @@
 
 Contributors:      Dominik Gawlik
 Plugin Name:       Easy Tagger
-Tags:              Easy Tagger, EasyTagger, tags, taging, filter, posts, thumbnail, widget 
+Tags:              Easy Tagger, EasyTagger, tags, taging, filter, posts, thumbnail, widget, tag, ban, rank, ranking, easy 
 Donate link:       https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=dominik%2egawlik1%40gmail%2ecom&lc=PL&item_name=Easy%20Tagger&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Requires at least: 2.8.0
 Tested up to:      2.8.0
